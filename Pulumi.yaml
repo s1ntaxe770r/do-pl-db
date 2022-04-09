@@ -1,0 +1,3 @@
+name: pl-db
+runtime: nodejs
+description: A Pulumi program that deploys a Postgres database cluster on DigitalOcean
